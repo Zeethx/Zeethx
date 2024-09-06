@@ -1,5 +1,8 @@
-# 💫 Hey, I'm Raghav Anand:
-I am a computer science honours graduate from the University of Windsor, Canada. I am passionate about the field of Artificial Intelligence, particularly in the areas of Machine Learning and Natural Language Processing.<br>🔭 I’m currently working on a Next.js interactive webapp for music education<br>🌱 I’m currently learning full-stack development<br>📝Checkout my portfolio website👉([raghavanand.tech](https://raghavanand.tech/))
+# 💫 Hey there, I'm Raghav Anand:
+I’m a Computer Science Honours graduate from the University of Windsor, specializing in Artificial Intelligence. Founder of [SpotShare](https://spotshare.ca), a web app that lets users rent out parking spaces. <br><br>🔭 Currently building an anonymous feedback platform using Next.js.<br>🌱 Exploring advanced web technologies to build dynamic and scalable applications<br>📝Checkout my portfolio website at [raghavanand.tech](https://raghavanand.tech/)<br>
+
+🎧 Currently listening to<br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0klesj6vtnmah9v42wmuq6drm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=0klesj6vtnmah9v42wmuq6drm&redirect=true)
 
 
 ## 🌐 Socials:
